@@ -1,4 +1,5 @@
 import pygame
+from snake import *
 
 pygame.init()
 bounds = (400,4400)
